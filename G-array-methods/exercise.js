@@ -12,6 +12,8 @@ var sortedNumbers; // complete this statement
 
 console.log(sortedNumbers);
 
+module.exports = sortedNumbers;
+
 /* 
   EXPECTED RESULT
   ---------------

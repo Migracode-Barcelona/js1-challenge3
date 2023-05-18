@@ -17,6 +17,8 @@ var name = "daniel";
 console.log(capitalise(name));
 console.log(capitalise("hello"));
 
+module.exports = capitalise;
+
 /* 
   EXPECTED RESULT
   ---------------

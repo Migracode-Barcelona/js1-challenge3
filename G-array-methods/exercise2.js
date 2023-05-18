@@ -15,6 +15,8 @@ var everyone; // complete this statement
 
 console.log(everyone);
 
+module.exports = everyone;
+
 /* 
   EXPECTED RESULT
   ---------------

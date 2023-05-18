@@ -16,7 +16,7 @@
     "url": "https://github.com/Migracode-Barcelona/js1-challenge1/issues"
   },
   "homepage": "https://github.com/Migracode-Barcelona/js1-challenge1#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.5.0"
   }
 }

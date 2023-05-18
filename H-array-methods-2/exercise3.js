@@ -17,6 +17,8 @@ console.log(isInUK("France"));
 console.log(isInUK("Republic of Ireland"));
 console.log(isInUK("England"));
 
+module.exports = isInUK;
+
 /* 
   EXPECTED RESULT
   ---------------
