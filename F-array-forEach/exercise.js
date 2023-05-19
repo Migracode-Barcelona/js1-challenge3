@@ -9,15 +9,11 @@
 
 var arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
-var result = [];
-
 //YOUR CODE SHOULD GO HERE
 
+let result = []  // fill this empty array
+
 console.log(result);
-
-//DO NOT REMOVE THIS CODE
-
-module.exports = result;
 
 /* EXPECTED OUTPUT */
 
@@ -38,3 +34,7 @@ module.exports = result;
 14
 'FizzBuzz'
 */
+
+//DO NOT REMOVE THIS CODE
+
+module.exports = result;
